@@ -1,6 +1,9 @@
-class alpha{
-    
-public void main (string[args]){
-    system.out.print("hi");
-}
+/**
+ * test
+ */
+public class test {
+
+    public static void main(String[] args) {
+        System.out.println("vvvv");
+    }
 }
